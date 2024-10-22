@@ -1,6 +1,7 @@
 # screen-recorder
 
-## ## Descripción
+## Descripción
+Este programa graba la pantalla con una interfaz inetractiva y elegante
 
 ## Requisitos
 
